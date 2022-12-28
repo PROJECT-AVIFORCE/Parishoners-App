@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item android:id="@+id/donate"
+        android:icon="@drawable/donateus"
+        android:title="Donate Us"/>
+
+    <item android:id="@+id/gallery"
+        android:icon="@drawable/gallery"
+        android:title="Gallery"/>
+
+    <item android:id="@+id/about"
+        android:icon="@drawable/information_button"
+        android:title="About"/>
+
+    <item android:id="@+id/contact"
+        android:icon="@drawable/contact_us"
+        android:title="Contact Us"/>
+
+</group>
+</menu>
