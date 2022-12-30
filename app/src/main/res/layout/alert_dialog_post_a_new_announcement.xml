@@ -36,27 +36,14 @@
             android:layout_margin="3dp"
             android:background="@drawable/edittext_bg"
             android:gravity="center"
-            android:hint="User email"
+            android:hint="Add a new announcement"
             android:padding="5dp"
             android:textColor="@android:color/white"
             android:textColorHint="@android:color/white"
             android:textSize="18sp"
             android:textStyle="bold" />
 
-        <EditText
-            android:id="@+id/textCountry"
-            android:layout_width="match_parent"
-            android:layout_height="48dp"
-            android:layout_gravity="center"
-            android:layout_margin="3dp"
-            android:background="@drawable/edittext_bg"
-            android:gravity="center"
-            android:hint="User Country"
-            android:padding="5dp"
-            android:textColor="@android:color/white"
-            android:textColorHint="@android:color/white"
-            android:textSize="18sp"
-            android:textStyle="bold" />
+
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/buttonAdd"
