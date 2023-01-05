@@ -9,5 +9,7 @@
         <item>@font/baloo_bhaijaan</item>
         <item>@font/bangers</item>
         <item>@font/bungee</item>
+        <item>@font/muli_black</item>
+        <item>@font/muli_light_italic</item>
     </array>
 </resources>

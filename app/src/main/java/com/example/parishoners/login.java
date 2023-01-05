@@ -22,7 +22,7 @@ public class login extends AppCompatActivity {
         submit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i=new Intent(login.this,home.class);
+                Intent i=new Intent(login.this, home.class);
                 startActivity(i);
             }
         });

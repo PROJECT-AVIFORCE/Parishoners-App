@@ -11,4 +11,7 @@
     <color name="red">#FF0000</color>
     <color name="blue">#0000FF</color>
     <color name="green">#5ec639</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="mintcream">#F5FFFA</color>
+    <color name="light_grey">#E5E4E2</color>
 </resources>
