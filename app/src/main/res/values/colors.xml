@@ -14,4 +14,8 @@
     <color name="snow">#FFFAFA</color>
     <color name="mintcream">#F5FFFA</color>
     <color name="light_grey">#E5E4E2</color>
+    <color name="Sky_blue">	#87CEEB</color>
+    <color name="Light_blue">#ADD8E6</color>
+    <color name="Light_black">#414a4c</color>
+    <color name="cyan">	#40E0D0</color>
 </resources>
